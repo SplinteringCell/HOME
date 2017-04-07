@@ -74,6 +74,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="SplinteringCell" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://source.jd.com/app/usererp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\myspace" />
