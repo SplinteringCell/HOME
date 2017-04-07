@@ -14,6 +14,7 @@
       <mask>*.mxml</mask>
       <mask>*.xml</mask>
       <mask>pom.xml</mask>
+      <mask>.xml</mask>
     </recentFileMasks>
   </component>
 </application>
