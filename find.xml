@@ -16,6 +16,7 @@
       <mask>pom.xml</mask>
       <mask>.xml</mask>
       <mask>.js</mask>
+      <mask>.vm</mask>
     </recentFileMasks>
   </component>
 </application>
