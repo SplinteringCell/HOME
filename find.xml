@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'E:\workspace\usermob-search\usermob-service\src\main\java\com\jd\account\service\AccountInfoServiceImpl.java'" />
-    <option name="defaultScopeName" value="File 'E:\workspace\usermob-search\usermob-service\src\main\java\com\jd\account\service\AccountInfoServiceImpl.java'" />
-    <option name="SEARCH_SCOPE" value="File 'E:\workspace\usermob-search\usermob-service\src\main\java\com\jd\account\service\AccountInfoServiceImpl.java'" />
+    <option name="customScope" value="File 'D:\local\repo\javax\servlet\servlet-api\2.5\servlet-api-2.5.jar!\javax\servlet\GenericServlet.class'" />
+    <option name="defaultScopeName" value="File 'D:\local\repo\javax\servlet\servlet-api\2.5\servlet-api-2.5.jar!\javax\servlet\GenericServlet.class'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\local\repo\javax\servlet\servlet-api\2.5\servlet-api-2.5.jar!\javax\servlet\GenericServlet.class'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
