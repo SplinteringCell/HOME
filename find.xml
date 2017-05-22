@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'MavenSpringMVCProject'" />
     <option name="defaultScopeName" value="Project 'MavenSpringMVCProject'" />
     <option name="SEARCH_SCOPE" value="Project 'MavenSpringMVCProject'" />
-    <option name="FILE_MASK" value="*.xm" />
+    <option name="FILE_MASK" value="*.vm" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,6 +21,7 @@
       <mask>*.xml</mask>
       <mask>*.pom</mask>
       <mask>*.xm</mask>
+      <mask>*.vm</mask>
     </recentFileMasks>
   </component>
 </application>
