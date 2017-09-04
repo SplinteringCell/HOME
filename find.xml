@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'MavenSpringMVCProject'" />
     <option name="defaultScopeName" value="Project 'MavenSpringMVCProject'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'MavenSpringMVCProject'" />
+    <option name="FILE_MASK" value="*.pom" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,9 +21,9 @@
       <mask>.pom</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.pom</mask>
       <mask>*.xm</mask>
       <mask>*.vm</mask>
+      <mask>*.pom</mask>
     </recentFileMasks>
   </component>
 </application>
