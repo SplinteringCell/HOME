@@ -1,6 +1,8 @@
 <application>
   <component name="TemplateCache" checksum="1403912918833">
+    <jvm name="C:/Program Files/Java/jdk1.6.0_43" value="-agentpath:C:\PROGRA~1\JPROFI~1\bin\WINDOW~1\jprofilerti.dll=${PARAM} -Djprofiler.64bit=true" />
     <jvm name="Oracle JVM 1.6.0 (32 bit) on Linux X86" value="-agentpath:$JPROFILER_HOME/bin/linux-x86/libjprofilerti.so=${PARAM}" />
+    <jvm name="C:\Program Files\Java\jdk1.6.0_43" value="-agentpath:C:\PROGRA~1\JPROFI~1\bin\WINDOW~1\jprofilerti.dll=${PARAM} -Djprofiler.64bit=true" />
     <jvm name="Oracle JVM 1.6.0 (64 bit) on Linux X86" value="-agentpath:$JPROFILER_HOME/bin/linux-x64/libjprofilerti.so=${PARAM} -Djprofiler.64bit=true" />
   </component>
 </application>
