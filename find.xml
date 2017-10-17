@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Program Files\Java\jdk1.6.0_43\src.zip!\java\util\concurrent\Executors.java'" />
-    <option name="defaultScopeName" value="File 'C:\Program Files\Java\jdk1.6.0_43\src.zip!\java\util\concurrent\Executors.java'" />
+    <option name="customScope" value="Project 'promotionSDK'" />
+    <option name="defaultScopeName" value="Project 'promotionSDK'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Program Files\Java\jdk1.6.0_43\src.zip!\java\util\concurrent\Executors.java'" />
+    <option name="SEARCH_SCOPE" value="Project 'promotionSDK'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
