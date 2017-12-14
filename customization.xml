@@ -1,0 +1,14 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Vcs.Push" is_action="true" action_type="1" position="23">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Pull" is_action="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
