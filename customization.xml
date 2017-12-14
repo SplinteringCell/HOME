@@ -14,17 +14,12 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.Pull" is_action="true" action_type="1" position="18">
+    <group seperator="true" action_type="1" position="22">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="19">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="20">
+    <group value="Vcs.Push" is_action="true" action_type="1" position="23">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -32,6 +27,11 @@
     <group value="Vcs.Push" is_action="true" action_type="1" position="23">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Pull" is_action="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Git.Pull" is_action="true" action_type="1" position="24">
