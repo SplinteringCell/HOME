@@ -58,4 +58,5 @@
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis" />
 </application>
