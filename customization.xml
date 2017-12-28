@@ -39,5 +39,11 @@
       <path value="Favorites View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Git.Fetch" is_action="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Git.Fetch" />
   </component>
 </application>
