@@ -4,8 +4,8 @@
     <option name="griffin" value="true" />
     <option name="ideInstallationStorage">
       <map>
-        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2018.1.2" />
-        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2018.1.3" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="1" />
       </map>
     </option>
     <option name="javaRebelPath" value="C:\Users\gejinlong\.IntelliJIdea2016.1\config\plugins\jr-ide-idea\lib\jrebel6\jrebel.jar" />
