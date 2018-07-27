@@ -1,0 +1,9 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Unwrap" />
+</keymap>
