@@ -2,6 +2,9 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="HideSideWindows">
+    <keyboard-shortcut first-keystroke="numpad0" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
