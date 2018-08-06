@@ -1,4 +1,8 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+    <keyboard-shortcut first-keystroke="numpad7" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
