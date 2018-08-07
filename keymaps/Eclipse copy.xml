@@ -1,13 +1,10 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
-    <keyboard-shortcut first-keystroke="numpad7" />
+    <keyboard-shortcut first-keystroke="numpad0" />
   </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
-  </action>
-  <action id="HideSideWindows">
-    <keyboard-shortcut first-keystroke="numpad0" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
