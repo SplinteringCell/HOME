@@ -1,10 +1,50 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="add" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="subtract" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="multiply" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="numpad7" />
+  </action>
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
     <keyboard-shortcut first-keystroke="numpad0" />
   </action>
+  <action id="CollapseTreeNode" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="add" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="subtract" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="multiply" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="numpad7" />
+  </action>
+  <action id="ExpandTreeNode" />
+  <action id="FullyExpandTreeNode" />
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="equals" />
+  </action>
+  <action id="Graph.ZoomOut">
+    <keyboard-shortcut first-keystroke="minus" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="alt r" />
