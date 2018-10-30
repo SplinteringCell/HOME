@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'promotionTool'" />
-    <option name="defaultScopeName" value="Project 'promotionTool'" />
+    <option name="customScope" value="Project 'jingdao'" />
+    <option name="defaultScopeName" value="Project 'jingdao'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'promotionTool'" />
+    <option name="SEARCH_SCOPE" value="Project 'jingdao'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
