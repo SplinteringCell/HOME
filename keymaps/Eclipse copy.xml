@@ -23,6 +23,7 @@
     <keyboard-shortcut first-keystroke="numpad0" />
   </action>
   <action id="CollapseTreeNode" />
+  <action id="ContextHelp" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
